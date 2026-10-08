@@ -1,0 +1,5 @@
+Name: AK
+
+Submitted:2026-10-08T19:49:53.518+05:30
+
+Issue: My PC got Hang every 15 min.
