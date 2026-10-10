@@ -1,0 +1,5 @@
+Name: Amit
+
+Submitted:2026-10-10T11:58:15.124+05:30
+
+Issue: User reports their PC is infected with a virus and is currently unusable.
