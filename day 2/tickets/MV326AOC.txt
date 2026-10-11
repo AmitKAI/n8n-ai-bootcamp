@@ -1,0 +1,9 @@
+User Name: Sachin
+
+Submitted: 2026-10-11T05:31:54.065+05:30
+
+Description:
+PC will not power on or display screen. User reports device fails to turn on; no screen output. Needs hardware/repair support. Please check power, display, and hardware diagnostics. Contact user for next steps.
+
+Status: Open
+Prio: Urgent
