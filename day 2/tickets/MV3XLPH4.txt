@@ -3,7 +3,11 @@ User Name: Amit
 Submitted: 2026-10-11T20:11:41.181+05:30
 
 Description:
-User Amit requests assistance to add/change users and role assignments in Nova CRM. They were informed that multiple users can collaborate but each person needs their own Nova account and a single role (Admin, Sales Manager, or Sales Rep). Amit requests an admin to add users or change roles. Please advise next steps and request specific user details (names, emails, desired roles).
+User Amit requests assistance to add/change users and role assignments in Nova CRM. They were informed that multiple users can collaborate but each person needs their own Nova account and a single role (Admin, Sales Manager, or Sales Rep). Amit requests an admin to add users or change roles. Please advise next steps and request specific user details (names, emails, desired roles). User confirmed name is Amit and requested escalation.
 
 Status: Open
-Prio: Not Urgent
+Prio: Urgent
+
+Activity Log:
+2026-10-11T20:11:41.181+05:30 - Ticket created (Not Urgent). Request for adding/changing users and roles.
+2026-10-11T20:41:00.000+05:30 - User Amit requested ticket be escalated to Urgent and confirmed their name.
